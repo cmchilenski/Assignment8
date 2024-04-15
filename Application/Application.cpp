@@ -21,6 +21,5 @@ int CoolClass::Calc(int a, int b)
     }
     
 }
-dfghj
 
 //hello world
