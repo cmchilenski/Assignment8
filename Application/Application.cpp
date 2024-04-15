@@ -22,5 +22,4 @@ int CoolClass::Calc(int a, int b)
     
 }
 
-
 //hello world
